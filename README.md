@@ -6,4 +6,4 @@ Cada habilidad es un widget independiente que contiene toda la lógica necesaria
 
 El árbol comienza con 25 puntos de experiencia. Cada vez que se compra una habilidad se consume un punto, se muestra por pantalla cuántos quedan y, cuando llegan a cero, ya no es posible seguir desbloqueando habilidades.
 
-He decidido hacerlo de esta forma porque es una estructura muy parecida a la que utilizan los juegos reales. Además, al ser cada habilidad independiente y configurar las conexiones desde el editor, el sistema es fácil de ampliar y modificar sin tener que cambiar el código cada vez que se añadan nuevas habilidades o ramas al árbol.
+He decidido hacerlo de esta forma porque me parecia lo mas eficiente y reutilizable posible. Además, al ser cada habilidad independiente y configurar las conexiones desde el editor, el sistema es fácil de ampliar y modificar sin tener que cambiar el código cada vez que se añadan nuevas habilidades o ramas al árbol.
